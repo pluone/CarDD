@@ -22,7 +22,7 @@ model = dict(
 
 # Modify dataset related settings
 dataset_type = 'COCODataset'
-data_root = '/root/onethingai-tmp/data/CarDD_COCO/'
+data_root = '/root/onethingai-tmp/CarDD_dataset/'
 
 metainfo = {
     'classes': ('dent', 'scratch', 'crack'),
